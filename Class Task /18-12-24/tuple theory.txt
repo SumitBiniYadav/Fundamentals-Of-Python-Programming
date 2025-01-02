@@ -1,0 +1,10 @@
+tuple is similar to list. Its a collection data type in python we can store multiple values in single variable. 
+
+tuple t1 = (1,)  === denoted by ().
+
+the tuples are immutable but can be changed by first converting the same in list and then in tuple again.
+
+there are only two inbuild methods  --->
+	1. Count 
+	2. Index
+

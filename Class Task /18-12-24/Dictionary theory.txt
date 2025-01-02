@@ -1,0 +1,6 @@
+Dictionary  
+	is a collection of data type in python we can store multipe key value pair in single variable. 
+
+Dictionary is denoted by {}
+
+dictionary are mutable 
